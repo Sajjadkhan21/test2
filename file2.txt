@@ -1,4 +1,1 @@
-this is 2nd file .
-this line has been changed.
-this is another commit
-another commit
+all is replaced for pull
